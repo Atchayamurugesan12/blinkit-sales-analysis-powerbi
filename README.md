@@ -52,16 +52,25 @@ Source: Kaggle – Blinkit Sales Dataset
 - Campaigns contribute significantly to revenue growth.
 
 ## Project Structure
+```
 Blinkit_Sales_Analysis_PowerBI/
 ├── Data/
 ├── Report/
 ├── Screenshots/
 |── README.md
+```
 
 ## Dashboard Preview
+### Overview
 ![Executive Overview](Screenshots/executive_overview.PNG)
+
+### Customer Insights
 ![Customer Insights](Screenshots/customer_insights.PNG)
+
+### Inventory
 ![Inventory & Product Performance](Screenshots/inventory_and_product_performance.PNG)
+
+### Delivery
 ![Delivery & Operations](Screenshots/delivery_and_operations.PNG)
 
 ## How to Use
