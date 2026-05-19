@@ -12,6 +12,7 @@ The dashboard analyzes sales, customers, inventory, and delivery performance to 
 
 ## Dataset
 Source: Kaggle – Blinkit Sales Dataset
+https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset
 
 ## Dashboard Pages
 
